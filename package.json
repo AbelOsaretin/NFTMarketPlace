@@ -1,0 +1,8 @@
+{
+  "name": "NFTMarketPlace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AbelOsaretin/NFTMarketPlace.git",
+  "author": "AbelOsaretin <contact.abel321@gmail.com>",
+  "license": "MIT"
+}
